@@ -13,8 +13,8 @@ st.header("O maior empreendedor de Bragança Paulista e região")
 st.subheader("Vulgo meu amor")
 
 # Use st.write("") para adicionar um texto ao seu Web app
-st.write("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
+st.write("Um dos fundarores e sócios da Absoluta Formaturas")
 
-st.info("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
+st.info("Criada em 2012, hoje é conhecida nacionalmente e está em constante crescimento no mercado")
 
-st.warning("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
+st.warning("Além de empreendedor ele é muito romântico e muito bem casasdo (comigo)")
